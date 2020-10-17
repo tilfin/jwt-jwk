@@ -1,0 +1,11 @@
+{
+  "name": "jwt-jwk",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Toshimitsu Takahashi",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "rasha": "^1.2.5"
+  }
+}
